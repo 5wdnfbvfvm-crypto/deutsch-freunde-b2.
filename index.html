@@ -1,34 +1,81 @@
 <!DOCTYPE html><html lang="fr"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Deutsch Freunde B2</title><link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#4a5cc4"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Freunde B2">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#8ea2f0"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Freunde B2">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 <style>
 :root{
-  --g:#007aff;--g2:#5ac8fa;--cr:rgba(255,255,255,.55);--bg:#6a6fd0;
-  --cd:rgba(255,255,255,.74);--tx:#14142b;--mu:#6b6b85;--bd:rgba(255,255,255,.55);
+  --g:#007aff;--g2:#007aff;--cr:rgba(255,255,255,.6);--bg:#b9a4ee;
+  --cd:rgba(255,255,255,.82);--tx:#14142b;--mu:#5d5d7a;--bd:rgba(255,255,255,.7);
   --ok:#1fb25a;--ko:#ff3b30
 }
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;color:var(--tx);min-height:100vh;
-  background:#6a6fd0 linear-gradient(180deg,#3b4cb8 0%,#7b6fd6 38%,#d79ae0 72%,#f7c3c4 100%) fixed;
+  background:#b9a4ee linear-gradient(180deg,#8ea2f0 0%,#b9a4ee 40%,#f0b8e0 75%,#ffd3c8 100%) fixed;
   font:17px/1.4 -apple-system,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif;
   -webkit-font-smoothing:antialiased;padding-top:env(safe-area-inset-top)}
 
-/* Barre du haut */
 header{position:sticky;top:env(safe-area-inset-top);z-index:5;
-  background:rgba(255,255,255,.14);-webkit-backdrop-filter:saturate(180%) blur(22px);backdrop-filter:saturate(180%) blur(22px);
-  border-bottom:.5px solid rgba(255,255,255,.35);color:#fff;
+  background:rgba(255,255,255,.4);-webkit-backdrop-filter:saturate(180%) blur(22px);backdrop-filter:saturate(180%) blur(22px);
+  border-bottom:.5px solid rgba(255,255,255,.6);color:var(--tx);
   padding:11px 16px;display:flex;justify-content:space-between;align-items:center;min-height:44px}
 header b{font:600 17px/1.2 -apple-system,"Helvetica Neue",sans-serif;letter-spacing:-.2px}
-#who{color:rgba(255,255,255,.85)!important;font-size:15px}
+#who{color:var(--g)!important;font-size:15px}
 
-main{max-width:760px;margin:auto;padding:16px 16px calc(96px + env(safe-area-inset-bottom))}
-main>.m{color:rgba(255,255,255,.85)}
-h2{font:300 34px/1.1 -apple-system,"Helvetica Neue",sans-serif;letter-spacing:-.5px;color:#fff;margin:10px 2px 16px;text-shadow:0 1px 12px rgba(40,30,120,.25)}
+main{max-width:760px;margin:auto;padding:16px 16px calc(96px + env(safe-area-inset-bottom));color:var(--tx)}
+h2{font:300 34px/1.1 -apple-system,"Helvetica Neue",sans-serif;letter-spacing:-.5px;color:#1b1b4a;margin:10px 2px 16px}
 h3{margin:0 0 4px;font-size:17px;font-weight:600;letter-spacing:-.2px}
 
-/* Cartes en verre dépoli */
-.c{background:var(--cd);-webkit-backdrop-filter:saturate(180%) blur
+.c{background:var(--cd);-webkit-backdrop-filter:saturate(180%) blur(24px);backdrop-filter:saturate(180%) blur(24px);
+  border:.5px solid var(--bd);border-radius:22px;padding:15px 17px;margin:0 0 13px;
+  box-shadow:0 8px 24px rgba(50,40,140,.15)}
+.m{color:var(--mu);font-size:13px}
+.fr{color:var(--mu);font-style:normal;font-size:15px;margin:0 0 8px}
+.de{font-weight:600;margin:0;font-size:17px}
+
+button,.b{appearance:none;-webkit-appearance:none;color:#fff;border:0;border-radius:13px;
+  background:linear-gradient(180deg,#5ac8fa 0%,#007aff 100%);
+  padding:11px 18px;font:600 16px/1.2 -apple-system,"Helvetica Neue",sans-serif;cursor:pointer;
+  text-decoration:none;display:inline-block;text-align:center;
+  box-shadow:0 4px 12px rgba(0,122,255,.35);transition:transform .12s,opacity .12s}
+button:active,.b:active{transform:scale(.96);opacity:.8}
+button.s{background:rgba(255,255,255,.75);color:#2a3ab8;box-shadow:none;border:.5px solid rgba(255,255,255,.9)}
+
+input,select,textarea{width:100%;padding:12px 13px;border:.5px solid rgba(120,120,160,.35);border-radius:13px;
+  font:inherit;margin:4px 0 10px;background:rgba(255,255,255,.9);color:var(--tx);outline:none;
+  -webkit-appearance:none;appearance:none;transition:box-shadow .15s}
+input:focus,select:focus,textarea:focus{box-shadow:0 0 0 3px rgba(90,200,250,.55)}
+textarea{min-height:96px;resize:vertical}
+
+nav{position:fixed;bottom:0;left:0;right:0;z-index:5;display:flex;
+  background:rgba(255,255,255,.45);-webkit-backdrop-filter:saturate(180%) blur(24px);backdrop-filter:saturate(180%) blur(24px);
+  border-top:.5px solid rgba(255,255,255,.7);padding:6px 0 env(safe-area-inset-bottom)}
+nav button{flex:1;background:none;box-shadow:none;color:var(--mu);border-radius:0;
+  padding:2px 0;font-size:10px;font-weight:500}
+nav button:active{transform:none;opacity:.6}
+nav button.on{color:var(--g);font-weight:700}
+nav i{display:flex;align-items:center;justify-content:center;width:34px;height:34px;margin:0 auto 3px;
+  border-radius:8px;font-style:normal;font-size:19px;line-height:1;
+  color:transparent;text-shadow:0 0 0 #fff;
+  background:linear-gradient(180deg,#5ac8fa,#007aff);
+  box-shadow:0 3px 8px rgba(30,20,100,.25);opacity:.75;transition:transform .15s,opacity .15s}
+nav button.on i{opacity:1;transform:scale(1.08)}
+nav button:nth-child(1) i{background:linear-gradient(180deg,#5ac8fa,#007aff)}
+nav button:nth-child(2) i{background:linear-gradient(180deg,#ffb340,#ff5e3a)}
+nav button:nth-child(3) i{background:linear-gradient(180deg,#87fc70,#0bd318)}
+nav button:nth-child(4) i{background:linear-gradient(180deg,#d98cf5,#8a4ce6)}
+nav button:nth-child(5) i{background:linear-gradient(180deg,#ff7aa0,#ff2d55)}
+nav button:nth-child(6) i{background:linear-gradient(180deg,#ffe066,#ff9f0a)}
+
+.w{background:linear-gradient(180deg,#fff3c4,#ffe38a);color:#6b4e00;border-radius:16px;padding:11px 14px;font-size:14px;margin:10px 0}
+.r{display:flex;gap:8px;flex-wrap:wrap}
+.msg{background:rgba(255,255,255,.7);border-left:0;padding:10px 14px;margin:8px 0;border-radius:18px 18px 18px 5px}
+.p{color:var(--ok)}.n{color:var(--ko)}
+.t{font-weight:600;font-size:13px;color:#3a3a6a;text-transform:uppercase;letter-spacing:.4px;margin:16px 4px 6px}
+</style></head><body><header><b>Deutsch Freunde B2</b><span id="who" class="m"></span></header>
+<main id="v"></main><nav id="nv"></nav>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js"></script>
+<script src="config.js"></script><script src="app.js"></script>
+<script>if('serviceWorker'in navigator)addEventListener('load',()=>navigator.serviceWorker.register('/sw.js'))</script>
+</body></html>
