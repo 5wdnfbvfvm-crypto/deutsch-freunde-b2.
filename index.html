@@ -1,23 +1,125 @@
-<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>Deutsch Freunde B2</title><link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#1f4d36"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Freunde B2">
-<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
-<style>
-:root{--g:#1f4d36;--g2:#2f6b4d;--cr:#f6f0e1;--bg:#fbf8f0;--cd:#fff;--tx:#1d2a22;--mu:#66736b;--bd:#e4dcc6}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.45 system-ui,-apple-system,sans-serif;padding-top:env(safe-area-inset-top)}
-header{background:var(--g);color:var(--cr);padding:12px 16px;display:flex;justify-content:space-between;align-items:center}header b{font:700 19px Georgia,serif}
-main{max-width:760px;margin:auto;padding:14px 14px 96px}h2{font:700 20px Georgia,serif;color:var(--g);margin:6px 0 10px}h3{margin:0 0 4px;font-size:16px}
-.c{background:var(--cd);border:1px solid var(--bd);border-radius:14px;padding:13px;margin:0 0 11px}.m{color:var(--mu);font-size:13px}
-.fr{color:var(--mu);font-style:italic;font-size:14px;margin:0 0 8px}.de{font-weight:600;margin:0}
-button,.b{background:var(--g2);color:#fff;border:0;border-radius:10px;padding:10px 14px;font-size:15px;cursor:pointer;text-decoration:none;display:inline-block}button.s{background:var(--cr);color:var(--tx);border:1px solid var(--bd)}
-input,select,textarea{width:100%;padding:10px;border:1px solid var(--bd);border-radius:10px;font:inherit;margin:4px 0 8px;background:#fff;color:var(--tx)}textarea{min-height:90px}
-nav{position:fixed;bottom:0;left:0;right:0;display:flex;background:var(--cd);border-top:1px solid var(--bd);padding-bottom:env(safe-area-inset-bottom)}nav button{flex:1;background:none;color:var(--mu);border-radius:0;padding:8px 0;font-size:11px}nav button.on{color:var(--g);font-weight:700}nav i{display:block;font-style:normal;font-size:19px}
-.w{background:#fff6dc;color:#5b4a12;border:1px solid #e6cf84;border-radius:10px;padding:9px;font-size:13px;margin:8px 0}.r{display:flex;gap:8px;flex-wrap:wrap}.msg{border-left:3px solid #c9a24b;background:var(--cr);padding:5px 10px;margin:7px 0;border-radius:0 8px 8px 0}
-.p{color:#2e8b57}.n{color:#c0504d}.t{font-weight:700;margin:10px 0 4px}
-</style></head><body><header><b>🌲 Deutsch Freunde B2</b><span id="who" class="m" style="color:#cfe3d6"></span></header>
-<main id="v"></main><nav id="nv"></nav>
-<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js"></script>
-<script src="config.js"></script><script src="app.js"></script>
-<script>if('serviceWorker'in navigator)addEventListener('load',()=>navigator.serviceWorker.register('/sw.js'))</script>
-</body></html>
+
+:root{
+  --g:#007aff;
+  --g2:#5856d6;
+  --cr:#eef4ff;
+  --bg:#f2f4f8;
+  --cd:#ffffff;
+  --tx:#252b3b;
+  --mu:#737d91;
+  --bd:#e1e6f0;
+}
+*{box-sizing:border-box}
+body{
+  margin:0;
+  background:linear-gradient(180deg,#edf4ff 0%,#f7f5ff 48%,#f5f7fb 100%);
+  color:var(--tx);
+  font:16px/1.5 -apple-system,BlinkMacSystemFont,"Helvetica Neue",sans-serif;
+  padding-top:env(safe-area-inset-top);
+}
+header{
+  background:linear-gradient(120deg,#007aff,#5856d6 60%,#af52de);
+  color:#fff;
+  padding:16px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  box-shadow:0 4px 16px #5965d533;
+}
+header b{
+  font:700 19px -apple-system,BlinkMacSystemFont,sans-serif;
+  letter-spacing:-.3px;
+}
+main{max-width:760px;margin:auto;padding:18px 14px 110px}
+h2{
+  font:700 22px -apple-system,BlinkMacSystemFont,sans-serif;
+  color:#3156b8;
+  margin:8px 0 13px;
+}
+h3{margin:0 0 5px;font-size:16px;color:#30394d}
+.c{
+  background:rgba(255,255,255,.96);
+  border:1px solid #e6eafa;
+  border-radius:18px;
+  padding:16px;
+  margin:0 0 13px;
+  box-shadow:0 5px 18px #5068a30d;
+}
+.m{color:var(--mu);font-size:13px}
+.fr{color:#7b8296;font-style:italic;font-size:14px;margin:0 0 8px}
+.de{font-weight:600;margin:0;color:#26344d}
+button,.b{
+  background:linear-gradient(135deg,#1685ff,#5367ed);
+  color:#fff;
+  border:0;
+  border-radius:12px;
+  padding:11px 16px;
+  font-size:15px;
+  font-weight:600;
+  cursor:pointer;
+  text-decoration:none;
+  display:inline-block;
+  box-shadow:0 3px 8px #007aff22;
+}
+button.s{
+  background:linear-gradient(135deg,#f1edff,#e8f2ff);
+  color:#4c55b8;
+  border:1px solid #dce4ff;
+  box-shadow:none;
+}
+input,select,textarea{
+  width:100%;
+  padding:12px;
+  border:1px solid #dce3f0;
+  border-radius:12px;
+  font:inherit;
+  margin:5px 0 9px;
+  background:#fff;
+  color:var(--tx);
+  outline-color:#007aff;
+}
+textarea{min-height:100px}
+nav{
+  position:fixed;
+  bottom:0;
+  left:0;
+  right:0;
+  display:flex;
+  background:rgba(255,255,255,.96);
+  border-top:1px solid #e2e7f0;
+  padding:7px 0 env(safe-area-inset-bottom);
+  box-shadow:0 -5px 20px #52658b0d;
+  backdrop-filter:blur(14px);
+}
+nav button{
+  flex:1;
+  background:none;
+  color:#8a93a6;
+  border-radius:10px;
+  padding:7px 0;
+  font-size:11px;
+  font-weight:500;
+  box-shadow:none;
+}
+nav button.on{color:#007aff;font-weight:700}
+nav i{display:block;font-style:normal;font-size:21px;margin-bottom:2px}
+.w{
+  background:linear-gradient(120deg,#fff7db,#fff0e8);
+  color:#79531b;
+  border:1px solid #ffe1a8;
+  border-radius:12px;
+  padding:11px;
+  font-size:13px;
+  margin:9px 0;
+}
+.r{display:flex;gap:8px;flex-wrap:wrap}
+.msg{
+  border-left:3px solid #ff9500;
+  background:#fff6e9;
+  padding:8px 11px;
+  margin:8px 0;
+  border-radius:0 10px 10px 0;
+}
+.p{color:#1685ff}
+.n{color:#ff3b5c}
+.t{font-weight:700;margin:11px 0 5px;color:#5856d6}
