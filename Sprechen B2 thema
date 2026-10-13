@@ -1,0 +1,1597 @@
+{
+ "source": "Sprechen_B2_Themen_und_Diskussionen_Pro_Contra.pdf",
+ "themes": [
+  {
+   "id": "T1",
+   "type": "praesentation",
+   "title_de": "Fit bleiben",
+   "title_fr": "Rester en forme",
+   "intro": {
+    "de": "Mein Thema ist, wie man fit bleiben kann.",
+    "fr": "Mon sujet est comment rester en forme."
+   },
+   "pros": [
+    {
+     "de": "Wer fit bleibt, ist seltener krank und hat mehr Energie im Alltag.",
+     "fr": "Celui qui reste en forme est moins souvent malade et a plus d'énergie au quotidien."
+    },
+    {
+     "de": "Außerdem verbessert Bewegung die Stimmung und hilft gegen Stress.",
+     "fr": "De plus, le mouvement améliore l'humeur et aide contre le stress."
+    }
+   ],
+   "cons": [
+    {
+     "de": "Sport kostet Zeit, besonders nach einem langen Arbeitstag.",
+     "fr": "Le sport prend du temps, surtout après une longue journée de travail."
+    },
+    {
+     "de": "Ein Fitnessstudio ist teuer, und man kann sich verletzen, wenn man übertreibt.",
+     "fr": "Une salle de sport est chère et on peut se blesser si on exagère."
+    }
+   ],
+   "examples": [
+    {
+     "de": "Zum Beispiel kann man joggen oder schwimmen gehen.",
+     "fr": "Par exemple, on peut aller courir ou nager."
+    },
+    {
+     "de": "Man kann auch zu Hause mit Videos trainieren.",
+     "fr": "On peut aussi s'entraîner à la maison avec des vidéos."
+    },
+    {
+     "de": "Gesunde Ernährung und genug Schlaf gehören ebenfalls dazu.",
+     "fr": "Une alimentation saine et assez de sommeil en font aussi partie."
+    }
+   ],
+   "conclusion": {
+    "de": "Zusammenfassend lässt sich sagen, dass die Vorteile überwiegen, denn Gesundheit ist das Wichtigste.",
+    "fr": "En résumé, les avantages l'emportent, car la santé est le plus important."
+   }
+  },
+  {
+   "id": "T2",
+   "type": "praesentation",
+   "title_de": "Geld sparen",
+   "title_fr": "Économiser de l'argent",
+   "intro": {
+    "de": "Mein Thema ist, wie man im Alltag Geld sparen kann.",
+    "fr": "Mon sujet est comment économiser de l'argent au quotidien."
+   },
+   "pros": [
+    {
+     "de": "Mit Ersparnissen ist man für Notfälle abgesichert.",
+     "fr": "Avec des économies, on est protégé en cas d'urgence."
+    },
+    {
+     "de": "Außerdem lernt man, bewusster mit Geld umzugehen.",
+     "fr": "De plus, on apprend à gérer l'argent de façon plus consciente."
+    }
+   ],
+   "cons": [
+    {
+     "de": "Wer zu sehr spart, verzichtet auf Lebensqualität und Erlebnisse.",
+     "fr": "Celui qui économise trop renonce à la qualité de vie et aux expériences."
+    },
+    {
+     "de": "Bei niedrigem Einkommen bleibt oft nichts zum Sparen übrig.",
+     "fr": "Avec un faible revenu, il ne reste souvent rien à économiser."
+    }
+   ],
+   "examples": [
+    {
+     "de": "Zum Beispiel kocht man zu Hause, statt oft im Restaurant zu essen.",
+     "fr": "Par exemple, on cuisine à la maison au lieu de manger souvent au restaurant."
+    },
+    {
+     "de": "Man kann Preise vergleichen und auf Angebote achten.",
+     "fr": "On peut comparer les prix et faire attention aux promotions."
+    },
+    {
+     "de": "Ein monatliches Budget zeigt, wofür man zu viel ausgibt.",
+     "fr": "Un budget mensuel montre pour quoi on dépense trop."
+    }
+   ],
+   "conclusion": {
+    "de": "Abschließend möchte ich sagen, dass Sparen sinnvoll ist, solange man auch das Leben genießt.",
+    "fr": "Pour finir, je dirais qu'économiser est utile, tant qu'on profite aussi de la vie."
+   }
+  },
+  {
+   "id": "T3",
+   "type": "praesentation",
+   "title_de": "Neue Freunde finden",
+   "title_fr": "Se faire de nouveaux amis",
+   "intro": {
+    "de": "Heute spreche ich darüber, wie man neue Freunde finden kann.",
+    "fr": "Aujourd'hui je parle de la façon de se faire de nouveaux amis."
+   },
+   "pros": [
+    {
+     "de": "Neue Freunde bringen neue Ideen in das eigene Leben.",
+     "fr": "De nouveaux amis apportent de nouvelles idées dans sa vie."
+    },
+    {
+     "de": "Außerdem hat man in schwierigen Zeiten jemanden, der einen unterstützt.",
+     "fr": "De plus, dans les moments difficiles, on a quelqu'un qui nous soutient."
+    }
+   ],
+   "cons": [
+    {
+     "de": "Es braucht Zeit und Mut, auf fremde Menschen zuzugehen.",
+     "fr": "Il faut du temps et du courage pour aller vers des inconnus."
+    },
+    {
+     "de": "Freundschaften kann man nicht erzwingen, und manche Kontakte bleiben oberflächlich.",
+     "fr": "On ne peut pas forcer les amitiés et certains contacts restent superficiels."
+    }
+   ],
+   "examples": [
+    {
+     "de": "Zum Beispiel lernt man in Vereinen und Sportkursen Leute kennen.",
+     "fr": "Par exemple, on rencontre des gens dans des clubs et des cours de sport."
+    },
+    {
+     "de": "Apps und Online-Gruppen verbinden Menschen mit gleichen Interessen.",
+     "fr": "Des applications et des groupes en ligne relient des personnes aux mêmes centres d'intérêt."
+    },
+    {
+     "de": "Am Arbeitsplatz oder an der Uni entstehen oft Freundschaften.",
+     "fr": "Au travail ou à l'université, des amitiés naissent souvent."
+    }
+   ],
+   "conclusion": {
+    "de": "Zusammenfassend lässt sich sagen, dass es sich lohnt, offen zu sein, obwohl der Anfang manchmal schwer ist.",
+    "fr": "En résumé, cela vaut la peine d'être ouvert, même si le début est parfois difficile."
+   }
+  },
+  {
+   "id": "T4",
+   "type": "praesentation",
+   "title_de": "Zeitmanagement",
+   "title_fr": "La gestion du temps",
+   "intro": {
+    "de": "Heute spreche ich über Zeitmanagement, also die gute Planung der eigenen Zeit.",
+    "fr": "Aujourd'hui je parle de la gestion du temps, c'est-à-dire la bonne planification de son temps."
+   },
+   "pros": [
+    {
+     "de": "Wer seine Zeit gut plant, schafft mehr und hat weniger Stress.",
+     "fr": "Celui qui planifie bien son temps accomplit plus et a moins de stress."
+    },
+    {
+     "de": "Außerdem bleibt mehr Freizeit für Familie und Hobbys.",
+     "fr": "De plus, il reste plus de temps libre pour la famille et les loisirs."
+    }
+   ],
+   "cons": [
+    {
+     "de": "Zu strenge Pläne nehmen die Spontaneität und können Druck machen.",
+     "fr": "Des plans trop stricts enlèvent la spontanéité et peuvent mettre la pression."
+    },
+    {
+     "de": "Man braucht Disziplin, und am Anfang kostet das Planen selbst Zeit.",
+     "fr": "Il faut de la discipline et, au début, planifier prend lui-même du temps."
+    }
+   ],
+   "examples": [
+    {
+     "de": "Zum Beispiel hilft ein Wochenplan im Kalender.",
+     "fr": "Par exemple, un planning hebdomadaire dans l'agenda aide."
+    },
+    {
+     "de": "Man setzt Prioritäten und erledigt das Wichtigste zuerst.",
+     "fr": "On fixe des priorités et on fait d'abord le plus important."
+    },
+    {
+     "de": "Apps erinnern an Termine und Fristen.",
+     "fr": "Des applications rappellent les rendez-vous et les échéances."
+    }
+   ],
+   "conclusion": {
+    "de": "Abschließend möchte ich betonen, dass gutes Zeitmanagement das Leben einfacher macht.",
+    "fr": "Pour finir, je voudrais souligner qu'une bonne gestion du temps simplifie la vie."
+   }
+  },
+  {
+   "id": "T5",
+   "type": "praesentation",
+   "title_de": "Öffentliche Verkehrsmittel",
+   "title_fr": "Les transports en commun",
+   "intro": {
+    "de": "Heute spreche ich über öffentliche Verkehrsmittel wie Bus, Bahn und Straßenbahn.",
+    "fr": "Aujourd'hui je parle des transports en commun comme le bus, le train et le tramway."
+   },
+   "pros": [
+    {
+     "de": "Sie sind umweltfreundlicher und oft günstiger als ein eigenes Auto.",
+     "fr": "Ils sont plus écologiques et souvent moins chers qu'une voiture personnelle."
+    },
+    {
+     "de": "Außerdem vermeidet man Stau und Parkplatzsuche.",
+     "fr": "De plus, on évite les embouteillages et la recherche de place de parking."
+    }
+   ],
+   "cons": [
+    {
+     "de": "Busse und Bahnen sind manchmal unpünktlich oder überfüllt.",
+     "fr": "Les bus et les trains sont parfois en retard ou bondés."
+    },
+    {
+     "de": "Auf dem Land fahren sie selten, deshalb ist man dort weniger flexibel.",
+     "fr": "À la campagne, ils passent rarement, c'est pourquoi on y est moins flexible."
+    }
+   ],
+   "examples": [
+    {
+     "de": "Zum Beispiel kauft man ein Monatsticket und fährt günstig durch die ganze Stadt.",
+     "fr": "Par exemple, on achète un abonnement mensuel et on se déplace à bon prix dans toute la ville."
+    },
+    {
+     "de": "Pendler lesen oder arbeiten während der Fahrt.",
+     "fr": "Les navetteurs lisent ou travaillent pendant le trajet."
+    },
+    {
+     "de": "In Großstädten ist die U-Bahn oft schneller als das Auto.",
+     "fr": "Dans les grandes villes, le métro est souvent plus rapide que la voiture."
+    }
+   ],
+   "conclusion": {
+    "de": "Zusammenfassend lässt sich sagen, dass öffentliche Verkehrsmittel besonders in der Stadt die beste Lösung sind.",
+    "fr": "En résumé, les transports en commun sont la meilleure solution, surtout en ville."
+   }
+  },
+  {
+   "id": "T6",
+   "type": "praesentation",
+   "title_de": "Teamarbeit",
+   "title_fr": "Le travail en équipe",
+   "intro": {
+    "de": "Heute geht es um Teamarbeit, die in fast jedem Beruf eine große Rolle spielt.",
+    "fr": "Aujourd'hui il s'agit du travail en équipe, qui joue un grand rôle dans presque tous les métiers."
+   },
+   "pros": [
+    {
+     "de": "Im Team kann man Aufgaben teilen, daher werden Projekte schneller fertig.",
+     "fr": "En équipe, on peut partager les tâches, donc les projets sont terminés plus vite."
+    },
+    {
+     "de": "Außerdem profitiert man von den Ideen und Erfahrungen der anderen.",
+     "fr": "De plus, on profite des idées et de l'expérience des autres."
+    }
+   ],
+   "cons": [
+    {
+     "de": "Es gibt oft Streit, wenn die Teammitglieder verschiedene Meinungen haben.",
+     "fr": "Il y a souvent des disputes quand les membres ont des avis différents."
+    },
+    {
+     "de": "Manche arbeiten weniger, weil sie sich auf die anderen verlassen.",
+     "fr": "Certains travaillent moins parce qu'ils comptent sur les autres."
+    }
+   ],
+   "examples": [
+    {
+     "de": "Zum Beispiel arbeiten Ärzte und Pflegekräfte im Krankenhaus eng zusammen.",
+     "fr": "Par exemple, les médecins et les infirmiers travaillent étroitement ensemble à l'hôpital."
+    },
+    {
+     "de": "Bei einem Gruppenprojekt an der Uni lernt man, Verantwortung zu übernehmen.",
+     "fr": "Lors d'un projet de groupe à l'université, on apprend à prendre des responsabilités."
+    },
+    {
+     "de": "Ein guter Teamleiter verteilt die Aufgaben fair.",
+     "fr": "Un bon chef d'équipe répartit équitablement les tâches."
+    }
+   ],
+   "conclusion": {
+    "de": "Abschließend lässt sich sagen, dass Teamarbeit viele Vorteile hat, wenn alle fair zusammenarbeiten.",
+    "fr": "Pour finir, le travail en équipe a beaucoup d'avantages si tout le monde collabore équitablement."
+   }
+  },
+  {
+   "id": "T7",
+   "type": "praesentation",
+   "title_de": "Höflichkeit am Arbeitsplatz",
+   "title_fr": "La politesse au travail",
+   "intro": {
+    "de": "Mein Thema ist die Höflichkeit am Arbeitsplatz, die für ein gutes Miteinander wichtig ist.",
+    "fr": "Mon sujet est la politesse au travail, importante pour bien vivre ensemble."
+   },
+   "pros": [
+    {
+     "de": "Höfliche Kollegen schaffen eine angenehme Atmosphäre, sodass alle gern arbeiten.",
+     "fr": "Des collègues polis créent une atmosphère agréable, si bien que tout le monde travaille volontiers."
+    },
+    {
+     "de": "Außerdem vermeidet man dadurch Missverständnisse und Streit.",
+     "fr": "De plus, on évite ainsi les malentendus et les disputes."
+    }
+   ],
+   "cons": [
+    {
+     "de": "Manche Menschen halten zu viel Höflichkeit für falsch oder unehrlich.",
+     "fr": "Certaines personnes trouvent trop de politesse fausse ou malhonnête."
+    },
+    {
+     "de": "Wer immer freundlich bleibt, sagt manchmal nicht offen seine Meinung.",
+     "fr": "Celui qui reste toujours aimable ne dit parfois pas ouvertement son opinion."
+    }
+   ],
+   "examples": [
+    {
+     "de": "Zum Beispiel gehört ein freundlicher Gruß am Morgen zum guten Ton.",
+     "fr": "Par exemple, un salut aimable le matin fait partie des bonnes manières."
+    },
+    {
+     "de": "In Besprechungen sollte man andere ausreden lassen.",
+     "fr": "En réunion, on devrait laisser les autres finir de parler."
+    },
+    {
+     "de": "Bei Kundengesprächen sind „Bitte“ und „Danke“ selbstverständlich.",
+     "fr": "Avec les clients, « s'il vous plaît » et « merci » vont de soi."
+    }
+   ],
+   "conclusion": {
+    "de": "Zusammenfassend lässt sich sagen, dass Höflichkeit nichts kostet, aber viel bringt.",
+    "fr": "En résumé, la politesse ne coûte rien mais apporte beaucoup."
+   }
+  },
+  {
+   "id": "T8",
+   "type": "praesentation",
+   "title_de": "Umweltbewusst einkaufen",
+   "title_fr": "Faire ses achats de façon écologique",
+   "intro": {
+    "de": "Heute spreche ich darüber, wie man umweltbewusst einkaufen kann.",
+    "fr": "Aujourd'hui je parle de la façon de faire ses achats de façon écologique."
+   },
+   "pros": [
+    {
+     "de": "Regionale Produkte sparen lange Transportwege und schonen das Klima.",
+     "fr": "Les produits régionaux évitent de longs transports et préservent le climat."
+    },
+    {
+     "de": "Außerdem unterstützt man damit die Landwirte in der Nähe.",
+     "fr": "De plus, on soutient ainsi les agriculteurs proches."
+    }
+   ],
+   "cons": [
+    {
+     "de": "Bio-Produkte sind oft teurer, deshalb können sich nicht alle sie leisten.",
+     "fr": "Les produits bio sont souvent plus chers, c'est pourquoi tout le monde ne peut pas se les permettre."
+    },
+    {
+     "de": "Man braucht mehr Zeit, weil man Etiketten lesen muss.",
+     "fr": "Il faut plus de temps, car il faut lire les étiquettes."
+    }
+   ],
+   "examples": [
+    {
+     "de": "Zum Beispiel nimmt man einen Stoffbeutel statt einer Plastiktüte mit.",
+     "fr": "Par exemple, on emporte un sac en tissu au lieu d'un sac en plastique."
+    },
+    {
+     "de": "Auf dem Wochenmarkt gibt es frisches Gemüse ohne viel Verpackung.",
+     "fr": "Au marché, on trouve des légumes frais sans beaucoup d'emballage."
+    },
+    {
+     "de": "Wer nur kauft, was er braucht, wirft weniger weg.",
+     "fr": "Celui qui n'achète que ce dont il a besoin jette moins."
+    }
+   ],
+   "conclusion": {
+    "de": "Abschließend möchte ich sagen, dass jeder durch kleine Schritte etwas für die Umwelt tun kann.",
+    "fr": "Pour finir, je dirais que chacun peut faire quelque chose pour l'environnement par de petits gestes."
+   }
+  },
+  {
+   "id": "T9",
+   "type": "praesentation",
+   "title_de": "Das Vermeiden von Müll",
+   "title_fr": "Éviter les déchets",
+   "intro": {
+    "de": "Ich möchte darüber sprechen, wie man Müll vermeiden kann.",
+    "fr": "Je voudrais parler de la façon d'éviter les déchets."
+   },
+   "pros": [
+    {
+     "de": "Weniger Müll bedeutet weniger Umweltverschmutzung.",
+     "fr": "Moins de déchets signifie moins de pollution."
+    },
+    {
+     "de": "Außerdem sparen Haushalte Geld, wenn sie weniger kaufen und mehr wiederverwenden.",
+     "fr": "De plus, les ménages économisent de l'argent s'ils achètent moins et réutilisent plus."
+    }
+   ],
+   "cons": [
+    {
+     "de": "Verpackungsfreie Produkte gibt es nicht überall.",
+     "fr": "Les produits sans emballage n'existent pas partout."
+    },
+    {
+     "de": "Es braucht Zeit und Aufwand, den Alltag umzustellen.",
+     "fr": "Cela demande du temps et des efforts de changer son quotidien."
+    }
+   ],
+   "examples": [
+    {
+     "de": "Zum Beispiel benutzt man Mehrwegflaschen statt Einwegflaschen.",
+     "fr": "Par exemple, on utilise des bouteilles réutilisables au lieu de bouteilles jetables."
+    },
+    {
+     "de": "Man repariert kaputte Geräte, statt sie wegzuwerfen.",
+     "fr": "On répare les appareils cassés au lieu de les jeter."
+    },
+    {
+     "de": "Lebensmittelreste kann man kompostieren.",
+     "fr": "On peut composter les restes alimentaires."
+    }
+   ],
+   "conclusion": {
+    "de": "Zusammenfassend lässt sich sagen, dass Müllvermeidung gut für die Umwelt und für den Geldbeutel ist.",
+    "fr": "En résumé, éviter les déchets est bon pour l'environnement et pour le porte-monnaie."
+   }
+  },
+  {
+   "id": "T10",
+   "type": "praesentation",
+   "title_de": "Eine neue Stadt kennenlernen",
+   "title_fr": "Découvrir une nouvelle ville",
+   "intro": {
+    "de": "Mein Thema ist das Kennenlernen einer neuen Stadt.",
+    "fr": "Mon sujet est la découverte d'une nouvelle ville."
+   },
+   "pros": [
+    {
+     "de": "Man entdeckt neue Orte, Museen und Restaurants.",
+     "fr": "On découvre de nouveaux lieux, musées et restaurants."
+    },
+    {
+     "de": "Außerdem fühlt man sich schneller zu Hause, wenn man die Stadt gut kennt.",
+     "fr": "De plus, on se sent plus vite chez soi quand on connaît bien la ville."
+    }
+   ],
+   "cons": [
+    {
+     "de": "In einer großen, fremden Stadt kann man sich leicht verlaufen.",
+     "fr": "Dans une grande ville inconnue, on peut facilement se perdre."
+    },
+    {
+     "de": "Das Leben ist oft hektisch und teuer, besonders die Mieten.",
+     "fr": "La vie est souvent trépidante et chère, surtout les loyers."
+    }
+   ],
+   "examples": [
+    {
+     "de": "Zum Beispiel macht man eine Stadtführung oder einen langen Spaziergang.",
+     "fr": "Par exemple, on fait une visite guidée ou une longue promenade."
+    },
+    {
+     "de": "Mit einer Karten-App findet man den Weg.",
+     "fr": "Avec une application de cartes, on trouve son chemin."
+    },
+    {
+     "de": "Auf Stadtteilfesten lernt man Nachbarn kennen.",
+     "fr": "Lors des fêtes de quartier, on fait connaissance avec les voisins."
+    }
+   ],
+   "conclusion": {
+    "de": "Abschließend lässt sich sagen, dass man mit Neugier und Geduld jede Stadt schnell kennenlernt.",
+    "fr": "Pour finir, avec de la curiosité et de la patience, on connaît vite n'importe quelle ville."
+   }
+  },
+  {
+   "id": "T11",
+   "type": "praesentation",
+   "title_de": "Harmonie in der Nachbarschaft",
+   "title_fr": "L'harmonie dans le voisinage",
+   "intro": {
+    "de": "Mein Thema ist die Harmonie in der Nachbarschaft.",
+    "fr": "Mon sujet est l'harmonie dans le voisinage."
+   },
+   "pros": [
+    {
+     "de": "Gute Nachbarn helfen sich gegenseitig, zum Beispiel beim Einkaufen oder Umzug.",
+     "fr": "De bons voisins s'entraident, par exemple pour les courses ou un déménagement."
+    },
+    {
+     "de": "Außerdem fühlt man sich sicherer, wenn man die Nachbarn kennt.",
+     "fr": "De plus, on se sent plus en sécurité quand on connaît ses voisins."
+    }
+   ],
+   "cons": [
+    {
+     "de": "Lärm, Müll und Parkplätze führen oft zu Streit.",
+     "fr": "Le bruit, les déchets et les places de parking mènent souvent à des disputes."
+    },
+    {
+     "de": "In Großstädten bleiben viele Nachbarn anonym.",
+     "fr": "Dans les grandes villes, beaucoup de voisins restent anonymes."
+    }
+   ],
+   "examples": [
+    {
+     "de": "Zum Beispiel organisiert man ein Hausfest oder ein gemeinsames Grillen.",
+     "fr": "Par exemple, on organise une fête d'immeuble ou un barbecue en commun."
+    },
+    {
+     "de": "Man hält die Ruhezeiten ein und sagt höflich „Guten Tag“.",
+     "fr": "On respecte les heures de calme et on dit poliment « Bonjour »."
+    },
+    {
+     "de": "Bei Problemen redet man zuerst freundlich miteinander.",
+     "fr": "En cas de problème, on se parle d'abord aimablement."
+    }
+   ],
+   "conclusion": {
+    "de": "Zusammenfassend lässt sich sagen, dass Respekt und Gespräche die Basis für gute Nachbarschaft sind.",
+    "fr": "En résumé, le respect et le dialogue sont la base d'un bon voisinage."
+   }
+  },
+  {
+   "id": "T12",
+   "type": "praesentation",
+   "title_de": "Sich in einem Verein engagieren",
+   "title_fr": "S'engager dans une association",
+   "intro": {
+    "de": "Heute spreche ich darüber, sich in einem Verein zu engagieren.",
+    "fr": "Aujourd'hui je parle de s'engager dans une association."
+   },
+   "pros": [
+    {
+     "de": "Man trifft Gleichgesinnte und findet neue Freunde.",
+     "fr": "On rencontre des gens aux mêmes idées et on trouve de nouveaux amis."
+    },
+    {
+     "de": "Außerdem lernt man Teamarbeit und Verantwortung.",
+     "fr": "De plus, on apprend le travail en équipe et la responsabilité."
+    }
+   ],
+   "cons": [
+    {
+     "de": "Das Engagement kostet Zeit, die man für Familie oder Beruf braucht.",
+     "fr": "L'engagement prend du temps dont on a besoin pour la famille ou le travail."
+    },
+    {
+     "de": "Manche Vereine verlangen Mitgliedsbeiträge.",
+     "fr": "Certaines associations exigent des cotisations."
+    }
+   ],
+   "examples": [
+    {
+     "de": "Zum Beispiel trainiert man in einem Sportverein oder singt in einem Chor.",
+     "fr": "Par exemple, on s'entraîne dans un club de sport ou on chante dans une chorale."
+    },
+    {
+     "de": "Die freiwillige Feuerwehr braucht ständig Helfer.",
+     "fr": "Les pompiers volontaires ont constamment besoin d'aide."
+    },
+    {
+     "de": "In Kulturvereinen organisiert man Feste und Ausstellungen.",
+     "fr": "Dans les associations culturelles, on organise des fêtes et des expositions."
+    }
+   ],
+   "conclusion": {
+    "de": "Abschließend möchte ich sagen, dass ein Verein das Leben bereichert, wenn man genug Zeit hat.",
+    "fr": "Pour finir, une association enrichit la vie si on a assez de temps."
+   }
+  },
+  {
+   "id": "T13",
+   "type": "praesentation",
+   "title_de": "Ehrenamtliche Arbeit",
+   "title_fr": "Le bénévolat",
+   "intro": {
+    "de": "Mein Thema ist die ehrenamtliche Arbeit.",
+    "fr": "Mon sujet est le bénévolat."
+   },
+   "pros": [
+    {
+     "de": "Man hilft anderen Menschen und fühlt sich dadurch nützlich und zufrieden.",
+     "fr": "On aide les autres et on se sent ainsi utile et satisfait."
+    },
+    {
+     "de": "Außerdem sammelt man Erfahrungen, die im Lebenslauf gut aussehen.",
+     "fr": "De plus, on acquiert des expériences qui font bonne figure dans un CV."
+    }
+   ],
+   "cons": [
+    {
+     "de": "Ehrenamtliche Arbeit ist unbezahlt, deshalb können sich nicht alle das leisten.",
+     "fr": "Le bénévolat n'est pas payé, c'est pourquoi tout le monde ne peut pas se le permettre."
+    },
+    {
+     "de": "Wenn die Arbeit zu viel wird, kann sie zur Belastung werden.",
+     "fr": "Quand le travail devient trop important, il peut devenir une charge."
+    }
+   ],
+   "examples": [
+    {
+     "de": "Zum Beispiel hilft man bei der Tafel, die Lebensmittel an Bedürftige verteilt.",
+     "fr": "Par exemple, on aide à la banque alimentaire qui distribue de la nourriture aux personnes dans le besoin."
+    },
+    {
+     "de": "Man betreut Kinder oder Senioren in der Freizeit.",
+     "fr": "On s'occupe d'enfants ou de personnes âgées pendant son temps libre."
+    },
+    {
+     "de": "Bei Katastrophen helfen viele Freiwillige beim Roten Kreuz.",
+     "fr": "Lors de catastrophes, beaucoup de bénévoles aident à la Croix-Rouge."
+    }
+   ],
+   "conclusion": {
+    "de": "Zusammenfassend lässt sich sagen, dass Ehrenamt der Gesellschaft und einem selbst hilft.",
+    "fr": "En résumé, le bénévolat aide la société et soi-même."
+   }
+  },
+  {
+   "id": "T14",
+   "type": "praesentation",
+   "title_de": "Bewegung im Alltag",
+   "title_fr": "Le mouvement au quotidien",
+   "intro": {
+    "de": "Mein Thema ist die Bewegung im Alltag.",
+    "fr": "Mon sujet est le mouvement au quotidien."
+   },
+   "pros": [
+    {
+     "de": "Kleine Bewegungen kosten kein Geld und sind leicht umzusetzen.",
+     "fr": "De petits mouvements ne coûtent rien et sont faciles à mettre en œuvre."
+    },
+    {
+     "de": "Außerdem schützen sie vor Rückenproblemen und Übergewicht.",
+     "fr": "De plus, ils protègent contre les problèmes de dos et le surpoids."
+    }
+   ],
+   "cons": [
+    {
+     "de": "Viele sitzen im Büro den ganzen Tag, daher fehlt ihnen die Bewegung.",
+     "fr": "Beaucoup sont assis au bureau toute la journée, c'est pourquoi le mouvement leur manque."
+    },
+    {
+     "de": "Bei schlechtem Wetter oder Müdigkeit fällt es schwer, sich zu motivieren.",
+     "fr": "Par mauvais temps ou fatigue, il est difficile de se motiver."
+    }
+   ],
+   "examples": [
+    {
+     "de": "Zum Beispiel nimmt man die Treppe statt des Aufzugs.",
+     "fr": "Par exemple, on prend l'escalier au lieu de l'ascenseur."
+    },
+    {
+     "de": "Man geht kurze Strecken zu Fuß oder fährt mit dem Rad.",
+     "fr": "On fait les petits trajets à pied ou à vélo."
+    },
+    {
+     "de": "In der Mittagspause kann man einen Spaziergang machen.",
+     "fr": "À la pause de midi, on peut faire une promenade."
+    }
+   ],
+   "conclusion": {
+    "de": "Abschließend lässt sich sagen, dass schon kleine Gewohnheiten viel für die Gesundheit bringen.",
+    "fr": "Pour finir, déjà de petites habitudes apportent beaucoup pour la santé."
+   }
+  },
+  {
+   "id": "T15",
+   "type": "praesentation",
+   "title_de": "Eine neue Sportart lernen",
+   "title_fr": "Apprendre un nouveau sport",
+   "intro": {
+    "de": "Heute spreche ich darüber, eine neue Sportart zu lernen.",
+    "fr": "Aujourd'hui je parle d'apprendre un nouveau sport."
+   },
+   "pros": [
+    {
+     "de": "Eine neue Sportart macht Spaß und hält die Motivation hoch.",
+     "fr": "Un nouveau sport est amusant et maintient la motivation."
+    },
+    {
+     "de": "Außerdem lernt man im Verein oder Kurs neue Leute kennen.",
+     "fr": "De plus, on rencontre de nouvelles personnes en club ou en cours."
+    }
+   ],
+   "cons": [
+    {
+     "de": "Am Anfang ist man oft frustriert, weil man noch nicht gut ist.",
+     "fr": "Au début, on est souvent frustré, car on n'est pas encore bon."
+    },
+    {
+     "de": "Manche Sportarten brauchen teure Ausrüstung, zum Beispiel Skifahren.",
+     "fr": "Certains sports demandent un équipement coûteux, par exemple le ski."
+    }
+   ],
+   "examples": [
+    {
+     "de": "Zum Beispiel kann man Yoga, Tennis oder Klettern ausprobieren.",
+     "fr": "Par exemple, on peut essayer le yoga, le tennis ou l'escalade."
+    },
+    {
+     "de": "Viele Vereine bieten Probetrainings an.",
+     "fr": "Beaucoup de clubs proposent des séances d'essai."
+    },
+    {
+     "de": "Ein Trainer hilft, Verletzungen zu vermeiden.",
+     "fr": "Un entraîneur aide à éviter les blessures."
+    }
+   ],
+   "conclusion": {
+    "de": "Zusammenfassend lässt sich sagen, dass es sich lohnt, etwas Neues auszuprobieren.",
+    "fr": "En résumé, cela vaut la peine d'essayer quelque chose de nouveau."
+   }
+  },
+  {
+   "id": "T16",
+   "type": "praesentation",
+   "title_de": "Online etwas Neues lernen",
+   "title_fr": "Apprendre quelque chose de nouveau en ligne",
+   "intro": {
+    "de": "Mein Thema ist das Lernen im Internet, das immer beliebter wird.",
+    "fr": "Mon sujet est l'apprentissage sur Internet, de plus en plus populaire."
+   },
+   "pros": [
+    {
+     "de": "Man lernt in seinem eigenen Tempo und zu jeder Zeit.",
+     "fr": "On apprend à son propre rythme et à tout moment."
+    },
+    {
+     "de": "Außerdem gibt es viele kostenlose oder günstige Kurse.",
+     "fr": "De plus, il y a beaucoup de cours gratuits ou bon marché."
+    }
+   ],
+   "cons": [
+    {
+     "de": "Es fehlt der persönliche Kontakt zu Lehrern und Mitlernenden.",
+     "fr": "Le contact personnel avec les enseignants et les autres apprenants manque."
+    },
+    {
+     "de": "Man braucht viel Selbstdisziplin, sonst gibt man schnell auf.",
+     "fr": "Il faut beaucoup d'autodiscipline, sinon on abandonne vite."
+    }
+   ],
+   "examples": [
+    {
+     "de": "Zum Beispiel lernt man auf YouTube Kochen oder Gitarre spielen.",
+     "fr": "Par exemple, on apprend sur YouTube la cuisine ou la guitare."
+    },
+    {
+     "de": "Plattformen wie Coursera bieten Kurse von Universitäten an.",
+     "fr": "Des plateformes comme Coursera proposent des cours d'universités."
+    },
+    {
+     "de": "Mit Apps kann man jeden Tag in kurzen Einheiten üben.",
+     "fr": "Avec des applications, on peut s'entraîner chaque jour en petites unités."
+    }
+   ],
+   "conclusion": {
+    "de": "Abschließend möchte ich sagen, dass Online-Lernen praktisch ist, wenn man diszipliniert bleibt.",
+    "fr": "Pour finir, apprendre en ligne est pratique si on reste discipliné."
+   }
+  },
+  {
+   "id": "T17",
+   "type": "praesentation",
+   "title_de": "Das Kulturangebot",
+   "title_fr": "L'offre culturelle",
+   "intro": {
+    "de": "Heute spreche ich über das Kulturangebot einer Stadt, zum Beispiel Theater, Museen und Konzerte.",
+    "fr": "Aujourd'hui je parle de l'offre culturelle d'une ville, par exemple théâtres, musées et concerts."
+   },
+   "pros": [
+    {
+     "de": "Kultur bildet, inspiriert und hilft beim Abschalten vom Alltag.",
+     "fr": "La culture instruit, inspire et aide à décompresser."
+    },
+    {
+     "de": "Außerdem bringt sie Menschen zusammen und stärkt die Gemeinschaft.",
+     "fr": "De plus, elle rassemble les gens et renforce la communauté."
+    }
+   ],
+   "cons": [
+    {
+     "de": "Eintrittskarten für Konzerte und Theater sind oft teuer.",
+     "fr": "Les billets pour les concerts et le théâtre sont souvent chers."
+    },
+    {
+     "de": "Auf dem Land gibt es wenig Angebote, sodass man weit fahren muss.",
+     "fr": "À la campagne, il y a peu d'offres, si bien qu'on doit faire de longs trajets."
+    }
+   ],
+   "examples": [
+    {
+     "de": "Zum Beispiel haben viele Museen einmal im Monat freien Eintritt.",
+     "fr": "Par exemple, beaucoup de musées ont l'entrée gratuite une fois par mois."
+    },
+    {
+     "de": "Open-Air-Festivals im Sommer ziehen viele Besucher an.",
+     "fr": "Les festivals en plein air l'été attirent beaucoup de visiteurs."
+    },
+    {
+     "de": "Studierende bekommen oft Ermäßigungen.",
+     "fr": "Les étudiants bénéficient souvent de réductions."
+    }
+   ],
+   "conclusion": {
+    "de": "Zusammenfassend lässt sich sagen, dass ein gutes Kulturangebot die Lebensqualität einer Stadt erhöht.",
+    "fr": "En résumé, une bonne offre culturelle augmente la qualité de vie d'une ville."
+   }
+  },
+  {
+   "id": "T18",
+   "type": "praesentation",
+   "title_de": "Die Unterkunft für eine Reise",
+   "title_fr": "Le logement pour un voyage",
+   "intro": {
+    "de": "Mein Thema ist die Wahl der Unterkunft für eine Reise.",
+    "fr": "Mon sujet est le choix du logement pour un voyage."
+   },
+   "pros": [
+    {
+     "de": "Eine gute Unterkunft sorgt für Erholung und macht die Reise angenehmer.",
+     "fr": "Un bon logement garantit le repos et rend le voyage plus agréable."
+    },
+    {
+     "de": "Außerdem kann man durch Vergleichen Geld sparen.",
+     "fr": "De plus, en comparant, on peut économiser de l'argent."
+    }
+   ],
+   "cons": [
+    {
+     "de": "Fotos im Internet zeigen manchmal nicht die Realität.",
+     "fr": "Les photos sur Internet ne montrent parfois pas la réalité."
+    },
+    {
+     "de": "In der Hauptsaison sind gute Zimmer teuer oder ausgebucht.",
+     "fr": "En haute saison, les bonnes chambres sont chères ou complètes."
+    }
+   ],
+   "examples": [
+    {
+     "de": "Zum Beispiel wählt man zwischen Hotel, Jugendherberge, Ferienwohnung oder Campingplatz.",
+     "fr": "Par exemple, on choisit entre hôtel, auberge de jeunesse, location de vacances ou camping."
+    },
+    {
+     "de": "Bewertungen anderer Gäste helfen bei der Entscheidung.",
+     "fr": "Les avis d'autres clients aident à décider."
+    },
+    {
+     "de": "Wer früh bucht, bekommt oft günstigere Preise.",
+     "fr": "Celui qui réserve tôt obtient souvent de meilleurs prix."
+    }
+   ],
+   "conclusion": {
+    "de": "Abschließend lässt sich sagen, dass sich ein Vergleich vor der Buchung immer lohnt.",
+    "fr": "Pour finir, comparer avant de réserver vaut toujours la peine."
+   }
+  }
+ ],
+ "discussions": [
+  {
+   "id": "D1",
+   "title_de": "Sollte man ein Eigenheim kaufen oder eine Wohnung mieten?",
+   "title_fr": "Faut-il acheter une maison ou louer un appartement ?",
+   "opinion": {
+    "de": "Meiner Meinung nach ist es langfristig besser, ein Eigenheim zu kaufen, auch wenn es Nachteile gibt.",
+    "fr": "À mon avis, il vaut mieux à long terme acheter sa maison, même si cela a des inconvénients."
+   },
+   "for": [
+    {
+     "de": "Mit einem Eigenheim zahlt man keine Miete mehr, sondern baut Vermögen auf. Zum Beispiel gehört das Haus nach 25 Jahren der Familie.",
+     "fr": "Avec une maison, on ne paie plus de loyer mais on se constitue un patrimoine. Par exemple, après 25 ans la maison appartient à la famille."
+    },
+    {
+     "de": "Außerdem ist man unabhängig und kann sein Zuhause frei gestalten. Zum Beispiel darf man einen Garten anlegen, ohne den Vermieter zu fragen.",
+     "fr": "De plus, on est indépendant et on peut aménager son chez-soi librement. Par exemple, on peut créer un jardin sans demander au propriétaire."
+    }
+   ],
+   "against": [
+    {
+     "de": "Andererseits ist ein Hauskauf sehr teuer, weil man einen Kredit aufnehmen muss. Zum Beispiel zahlt man oft jahrzehntelang Zinsen.",
+     "fr": "D'un autre côté, acheter une maison est très cher, car il faut prendre un crédit. Par exemple, on paie souvent des intérêts pendant des décennies."
+    },
+    {
+     "de": "Außerdem ist man weniger flexibel, wenn man den Job wechseln muss. Zum Beispiel kann man ein Haus nicht schnell verlassen.",
+     "fr": "De plus, on est moins flexible si on doit changer de travail. Par exemple, on ne peut pas quitter rapidement une maison."
+    }
+   ],
+   "conclusion": {
+    "de": "Wer genug Geld hat und lange am selben Ort bleibt, sollte kaufen. Wer flexibel bleiben möchte, sollte mieten.",
+    "fr": "Celui qui a assez d'argent et reste longtemps au même endroit devrait acheter. Celui qui veut rester flexible devrait louer."
+   }
+  },
+  {
+   "id": "D2",
+   "title_de": "Sollten Jugendliche in einer WG oder allein wohnen?",
+   "title_fr": "Les jeunes devraient-ils vivre en colocation ou seuls ?",
+   "opinion": {
+    "de": "Ich finde, dass die WG für junge Leute die bessere Lösung ist.",
+    "fr": "Je trouve que la colocation est la meilleure solution pour les jeunes."
+   },
+   "for": [
+    {
+     "de": "Eine WG ist günstiger, weil man Miete und Nebenkosten teilt. Zum Beispiel zahlt man für ein WG-Zimmer oft nur halb so viel wie für eine eigene Wohnung.",
+     "fr": "Une colocation est moins chère, car on partage loyer et charges. Par exemple, une chambre en colocation coûte souvent moitié moins qu'un appartement."
+    },
+    {
+     "de": "Außerdem lernt man, Verantwortung zu übernehmen und Konflikte zu lösen. Zum Beispiel macht man gemeinsam einen Putzplan.",
+     "fr": "De plus, on apprend à prendre des responsabilités et à résoudre des conflits. Par exemple, on fait ensemble un planning de ménage."
+    }
+   ],
+   "against": [
+    {
+     "de": "Allerdings gibt es in einer WG oft Streit über Sauberkeit und Lärm. Zum Beispiel stört eine Party vor einer Prüfung.",
+     "fr": "Cependant, il y a souvent des disputes en colocation à propos de la propreté et du bruit. Par exemple, une fête dérange avant un examen."
+    },
+    {
+     "de": "Außerdem hat man wenig Privatsphäre. Zum Beispiel kann man nicht jederzeit in Ruhe lernen.",
+     "fr": "De plus, on a peu d'intimité. Par exemple, on ne peut pas toujours étudier au calme."
+    }
+   ],
+   "conclusion": {
+    "de": "Zusammenfassend lässt sich sagen, dass eine WG ideal für den Anfang ist, während später eine eigene Wohnung sinnvoll sein kann.",
+    "fr": "En résumé, une colocation est idéale pour commencer, alors que plus tard un appartement personnel peut être judicieux."
+   }
+  },
+  {
+   "id": "D3",
+   "title_de": "Sollte man in der Stadt oder auf dem Land wohnen?",
+   "title_fr": "Vaut-il mieux habiter en ville ou à la campagne ?",
+   "opinion": {
+    "de": "Ich persönlich würde lieber in der Stadt wohnen, auch wenn das Landleben Vorteile hat.",
+    "fr": "Personnellement, je préfère habiter en ville, même si la vie à la campagne a des avantages."
+   },
+   "for": [
+    {
+     "de": "In der Stadt gibt es mehr Arbeitsplätze und Bildungsangebote. Zum Beispiel findet man dort Universitäten und Krankenhäuser in der Nähe.",
+     "fr": "En ville, il y a plus d'emplois et d'offres de formation. Par exemple, on y trouve universités et hôpitaux à proximité."
+    },
+    {
+     "de": "Außerdem sind Kultur, Einkaufen und Verkehrsmittel leicht erreichbar. Zum Beispiel fährt die U-Bahn alle fünf Minuten, sodass man kein Auto braucht.",
+     "fr": "De plus, culture, courses et transports sont facilement accessibles. Par exemple, le métro passe toutes les cinq minutes, donc pas besoin de voiture."
+    }
+   ],
+   "against": [
+    {
+     "de": "Auf dem Land ist es ruhiger und es gibt mehr Natur. Zum Beispiel kann man abends im Garten sitzen, ohne Lärm zu hören.",
+     "fr": "À la campagne, c'est plus calme et il y a plus de nature. Par exemple, on peut s'asseoir le soir au jardin sans entendre de bruit."
+    },
+    {
+     "de": "Außerdem sind Wohnungen auf dem Land günstiger. Zum Beispiel zahlt man für ein Haus oft weniger als für eine kleine Stadtwohnung.",
+     "fr": "De plus, les logements sont moins chers à la campagne. Par exemple, une maison coûte souvent moins qu'un petit appartement en ville."
+    }
+   ],
+   "conclusion": {
+    "de": "Beides hat Vorteile: Wer Karriere und Kultur sucht, wählt die Stadt. Wer Ruhe und Natur liebt, wählt das Land.",
+    "fr": "Les deux ont des avantages : qui cherche carrière et culture choisit la ville, qui aime le calme et la nature choisit la campagne."
+   }
+  },
+  {
+   "id": "D4",
+   "title_de": "Sollte die Arbeitswoche kürzer werden?",
+   "title_fr": "La semaine de travail devrait-elle être raccourcie ?",
+   "opinion": {
+    "de": "Ich bin dafür, dass die Arbeitswoche kürzer wird, weil das Vorteile für alle hat.",
+    "fr": "Je suis pour une semaine de travail plus courte, car cela a des avantages pour tous."
+   },
+   "for": [
+    {
+     "de": "Kürzere Arbeitszeiten verbessern die Gesundheit und verringern Stress. Zum Beispiel sind Menschen mit einer Vier-Tage-Woche seltener krank.",
+     "fr": "Des horaires plus courts améliorent la santé et réduisent le stress. Par exemple, les personnes en semaine de quatre jours sont moins souvent malades."
+    },
+    {
+     "de": "Außerdem arbeiten ausgeruhte Mitarbeiter konzentrierter. Zum Beispiel blieb die Leistung bei Tests in Island gleich.",
+     "fr": "De plus, des employés reposés travaillent de façon plus concentrée. Par exemple, la performance est restée la même lors de tests en Islande."
+    }
+   ],
+   "against": [
+    {
+     "de": "Nicht alle Berufe können das umsetzen. Zum Beispiel muss ein Krankenhaus jeden Tag besetzt sein.",
+     "fr": "Tous les métiers ne peuvent pas le mettre en œuvre. Par exemple, un hôpital doit être occupé tous les jours."
+    },
+    {
+     "de": "Außerdem werden die Arbeitstage länger und anstrengender. Zum Beispiel arbeitet man dann zehn Stunden am Tag.",
+     "fr": "De plus, les journées de travail deviennent plus longues et plus fatigantes. Par exemple, on travaille alors dix heures par jour."
+    }
+   ],
+   "conclusion": {
+    "de": "Zusammenfassend lässt sich sagen, dass eine kürzere Woche in Büros gut funktioniert, in anderen Berufen aber schwieriger ist.",
+    "fr": "En résumé, une semaine plus courte fonctionne bien dans les bureaux, mais est plus difficile dans d'autres métiers."
+   }
+  },
+  {
+   "id": "D5",
+   "title_de": "Sollen Angestellte von zu Hause arbeiten?",
+   "title_fr": "Les employés devraient-ils travailler à domicile ?",
+   "opinion": {
+    "de": "Ich bin dafür, dass Angestellte zumindest teilweise von zu Hause arbeiten dürfen.",
+    "fr": "Je suis pour que les employés puissent travailler au moins en partie à domicile."
+   },
+   "for": [
+    {
+     "de": "Man spart Zeit und Geld für den Arbeitsweg. Zum Beispiel spart ein Pendler täglich zwei Stunden Fahrt.",
+     "fr": "On économise du temps et de l'argent sur le trajet. Par exemple, un navetteur économise deux heures de trajet par jour."
+    },
+    {
+     "de": "Außerdem lassen sich Beruf und Familie besser vereinbaren. Zum Beispiel kann eine Mutter die Kinder von der Schule abholen.",
+     "fr": "De plus, on concilie mieux travail et famille. Par exemple, une mère peut aller chercher les enfants à l'école."
+    }
+   ],
+   "against": [
+    {
+     "de": "Zu Hause gibt es viele Ablenkungen. Zum Beispiel stören Fernseher, Handy oder Kinder die Arbeit.",
+     "fr": "À la maison, il y a beaucoup de distractions. Par exemple, la télévision, le téléphone ou les enfants dérangent le travail."
+    },
+    {
+     "de": "Außerdem fehlt der Kontakt zu den Kollegen. Zum Beispiel fühlt man sich manchmal allein und isoliert.",
+     "fr": "De plus, le contact avec les collègues manque. Par exemple, on se sent parfois seul et isolé."
+    }
+   ],
+   "conclusion": {
+    "de": "Ein Kompromiss wäre ein Mix: zwei oder drei Tage Homeoffice und die restlichen Tage im Büro.",
+    "fr": "Un compromis serait un mélange : deux ou trois jours de télétravail et les autres jours au bureau."
+   }
+  },
+  {
+   "id": "D6",
+   "title_de": "Ist ein Großraumbüro sinnvoll für Angestellte?",
+   "title_fr": "Un bureau paysager est-il judicieux pour les employés ?",
+   "opinion": {
+    "de": "Ich bin skeptisch und glaube, dass Großraumbüros nicht für jeden sinnvoll sind.",
+    "fr": "Je suis sceptique et crois que les bureaux paysagers ne sont pas judicieux pour tous."
+   },
+   "for": [
+    {
+     "de": "Der Lärm und die Unruhe stören die Konzentration. Zum Beispiel unterbricht ein Telefonat in der Nähe ständig die Arbeit.",
+     "fr": "Le bruit et l'agitation perturbent la concentration. Par exemple, un appel à proximité interrompt constamment le travail."
+    },
+    {
+     "de": "Außerdem fehlt die Privatsphäre. Zum Beispiel kann man keine vertraulichen Gespräche führen.",
+     "fr": "De plus, l'intimité manque. Par exemple, on ne peut pas avoir de conversations confidentielles."
+    }
+   ],
+   "against": [
+    {
+     "de": "Andererseits ist die Kommunikation einfacher. Zum Beispiel kann man Kollegen direkt etwas fragen.",
+     "fr": "D'un autre côté, la communication est plus simple. Par exemple, on peut poser directement une question aux collègues."
+    },
+    {
+     "de": "Außerdem sparen Firmen Platz und Kosten. Zum Beispiel braucht man weniger Räume und Möbel.",
+     "fr": "De plus, les entreprises économisent de la place et des coûts. Par exemple, il faut moins de pièces et de meubles."
+    }
+   ],
+   "conclusion": {
+    "de": "Großraumbüros sind für Teamarbeit gut, aber man braucht auch Ruhezonen für konzentriertes Arbeiten.",
+    "fr": "Les bureaux paysagers conviennent au travail d'équipe, mais il faut aussi des zones calmes pour travailler concentré."
+   }
+  },
+  {
+   "id": "D7",
+   "title_de": "Sollte man Arbeitserfahrung im Ausland sammeln?",
+   "title_fr": "Faut-il acquérir de l'expérience professionnelle à l'étranger ?",
+   "opinion": {
+    "de": "Ich finde, dass man Arbeitserfahrung im Ausland sammeln sollte.",
+    "fr": "Je trouve qu'on devrait acquérir de l'expérience professionnelle à l'étranger."
+   },
+   "for": [
+    {
+     "de": "Man verbessert seine Fremdsprachenkenntnisse und wird selbstständiger. Zum Beispiel lernt man nach einem Jahr in Deutschland fließend Deutsch.",
+     "fr": "On améliore ses langues et devient plus autonome. Par exemple, après un an en Allemagne on parle couramment allemand."
+    },
+    {
+     "de": "Außerdem steigen die Karrierechancen. Zum Beispiel stellen internationale Firmen gern Bewerber mit Auslandserfahrung ein.",
+     "fr": "De plus, les chances de carrière augmentent. Par exemple, les entreprises internationales embauchent volontiers des candidats avec expérience à l'étranger."
+    }
+   ],
+   "against": [
+    {
+     "de": "Man vermisst Familie und Freunde. Zum Beispiel bekommt man am Anfang oft Heimweh.",
+     "fr": "On manque à sa famille et à ses amis. Par exemple, on a souvent le mal du pays au début."
+    },
+    {
+     "de": "Außerdem ist die Bürokratie kompliziert und teuer. Zum Beispiel braucht man ein Visum und eine Anmeldung.",
+     "fr": "De plus, la bureaucratie est compliquée et chère. Par exemple, il faut un visa et une inscription."
+    }
+   ],
+   "conclusion": {
+    "de": "Zusammenfassend lässt sich sagen, dass die Vorteile überwiegen, obwohl der Anfang schwer sein kann.",
+    "fr": "En résumé, les avantages l'emportent, même si le début peut être difficile."
+   }
+  },
+  {
+   "id": "D8",
+   "title_de": "Sollen Studierende online studieren (Fernstudium)?",
+   "title_fr": "Les étudiants devraient-ils étudier en ligne (enseignement à distance) ?",
+   "opinion": {
+    "de": "Ich finde, dass ein Fernstudium für viele Menschen eine gute Möglichkeit ist.",
+    "fr": "Je trouve que les études à distance sont une bonne possibilité pour beaucoup de personnes."
+   },
+   "for": [
+    {
+     "de": "Man kann Studium und Beruf kombinieren. Zum Beispiel arbeitet jemand tagsüber und lernt abends.",
+     "fr": "On peut combiner études et travail. Par exemple, quelqu'un travaille la journée et étudie le soir."
+    },
+    {
+     "de": "Außerdem spart man Umzugs- und Mietkosten. Zum Beispiel kann man an einer Uni in einer anderen Stadt studieren, ohne dort zu wohnen.",
+     "fr": "De plus, on économise déménagement et loyer. Par exemple, on peut étudier dans une autre ville sans y habiter."
+    }
+   ],
+   "against": [
+    {
+     "de": "Es fehlt der Kontakt zu anderen Studierenden und Lehrern. Zum Beispiel kann man Fragen nicht direkt stellen.",
+     "fr": "Le contact avec les autres étudiants et les enseignants manque. Par exemple, on ne peut pas poser de questions directement."
+    },
+    {
+     "de": "Außerdem braucht man viel Selbstdisziplin. Zum Beispiel verschiebt man das Lernen oft auf später.",
+     "fr": "De plus, il faut beaucoup d'autodiscipline. Par exemple, on remet souvent l'étude à plus tard."
+    }
+   ],
+   "conclusion": {
+    "de": "Ein Fernstudium passt zu disziplinierten Menschen, die flexibel bleiben müssen.",
+    "fr": "Les études à distance conviennent aux personnes disciplinées qui doivent rester flexibles."
+   }
+  },
+  {
+   "id": "D9",
+   "title_de": "Praktikum und duales Studium: sinnvoll?",
+   "title_fr": "Stage et études en alternance : est-ce judicieux ?",
+   "opinion": {
+    "de": "Meiner Meinung nach sind Praktika und das duale Studium sehr sinnvoll.",
+    "fr": "À mon avis, les stages et les études en alternance sont très judicieux."
+   },
+   "for": [
+    {
+     "de": "Theorie und Praxis werden direkt verbunden. Zum Beispiel arbeitet man im Betrieb und lernt gleichzeitig an der Hochschule.",
+     "fr": "La théorie et la pratique sont directement reliées. Par exemple, on travaille en entreprise et on étudie en même temps."
+    },
+    {
+     "de": "Außerdem verdient man schon Geld und hat danach bessere Jobchancen. Zum Beispiel übernehmen Firmen duale Studenten oft nach dem Abschluss.",
+     "fr": "De plus, on gagne déjà de l'argent et on a de meilleures chances d'emploi. Par exemple, les entreprises reprennent souvent leurs étudiants en alternance."
+    }
+   ],
+   "against": [
+    {
+     "de": "Man hat weniger Zeit zum Lernen. Zum Beispiel können die Noten schlechter werden.",
+     "fr": "On a moins de temps pour apprendre. Par exemple, les notes peuvent baisser."
+    },
+    {
+     "de": "Außerdem sind manche Praktika schlecht oder gar nicht bezahlt. Zum Beispiel arbeitet man monatelang fast umsonst.",
+     "fr": "De plus, certains stages sont mal ou pas payés. Par exemple, on travaille des mois presque gratuitement."
+    }
+   ],
+   "conclusion": {
+    "de": "Zusammenfassend lässt sich sagen, dass Praxiserfahrung sehr wertvoll ist, wenn die Bedingungen fair sind.",
+    "fr": "En résumé, l'expérience pratique est très précieuse si les conditions sont équitables."
+   }
+  },
+  {
+   "id": "D10",
+   "title_de": "Ist es sinnvoll, Noten in der Schule abzuschaffen?",
+   "title_fr": "Est-il judicieux de supprimer les notes à l'école ?",
+   "opinion": {
+    "de": "Meiner Meinung nach wäre es sinnvoll, Noten zumindest in den ersten Schuljahren abzuschaffen.",
+    "fr": "À mon avis, il serait judicieux de supprimer les notes au moins dans les premières années."
+   },
+   "for": [
+    {
+     "de": "Noten erzeugen Druck und Angst. Zum Beispiel bekommen manche Kinder vor Klassenarbeiten Bauchschmerzen.",
+     "fr": "Les notes créent de la pression et de l'angoisse. Par exemple, certains enfants ont mal au ventre avant les contrôles."
+    },
+    {
+     "de": "Außerdem sagt eine Zahl wenig über Fähigkeiten aus. Zum Beispiel erklärt ein Bericht der Lehrerin viel besser, was das Kind kann.",
+     "fr": "De plus, un chiffre en dit peu sur les capacités. Par exemple, un rapport de l'enseignante explique mieux ce que l'enfant sait faire."
+    }
+   ],
+   "against": [
+    {
+     "de": "Noten motivieren zum Lernen. Zum Beispiel strengen sich viele Schüler für eine gute Note an.",
+     "fr": "Les notes motivent à apprendre. Par exemple, beaucoup d'élèves font des efforts pour une bonne note."
+    },
+    {
+     "de": "Außerdem sind Noten für Bewerbungen und Universitäten wichtig. Zum Beispiel verlangt die Uni oft einen Notendurchschnitt.",
+     "fr": "De plus, les notes sont importantes pour les candidatures et l'université. Par exemple, l'université exige souvent une moyenne."
+    }
+   ],
+   "conclusion": {
+    "de": "Ich denke, dass man in der Grundschule auf Noten verzichten kann, später aber nicht.",
+    "fr": "Je pense qu'on peut renoncer aux notes à l'école primaire, mais pas plus tard."
+   }
+  },
+  {
+   "id": "D11",
+   "title_de": "Sollen kleine Kinder eine Fremdsprache lernen?",
+   "title_fr": "Les jeunes enfants devraient-ils apprendre une langue étrangère ?",
+   "opinion": {
+    "de": "Ich bin der Meinung, dass kleine Kinder früh eine Fremdsprache lernen sollten.",
+    "fr": "Je pense que les jeunes enfants devraient apprendre tôt une langue étrangère."
+   },
+   "for": [
+    {
+     "de": "Kleine Kinder lernen Sprachen spielerisch und ohne Angst. Zum Beispiel lernen sie in der Kita englische Lieder.",
+     "fr": "Les petits enfants apprennent les langues par le jeu et sans peur. Par exemple, ils apprennent des chansons anglaises à la crèche."
+    },
+    {
+     "de": "Außerdem haben sie später bessere Chancen in Schule und Beruf. Zum Beispiel fällt ihnen ein Studium im Ausland leichter.",
+     "fr": "De plus, ils auront de meilleures chances à l'école et dans le métier. Par exemple, étudier à l'étranger leur est plus facile."
+    }
+   ],
+   "against": [
+    {
+     "de": "Manche Kinder sind mit zwei Sprachen überfordert. Zum Beispiel sprechen sie dann ihre Muttersprache schlechter.",
+     "fr": "Certains enfants sont dépassés par deux langues. Par exemple, ils parlent alors moins bien leur langue maternelle."
+    },
+    {
+     "de": "Außerdem sollten Kinder zuerst ihre Muttersprache gut lernen. Zum Beispiel sind Lesen und Schreiben am Anfang wichtiger.",
+     "fr": "De plus, les enfants devraient d'abord bien apprendre leur langue maternelle. Par exemple, lire et écrire sont plus importants au début."
+    }
+   ],
+   "conclusion": {
+    "de": "Wenn der Unterricht spielerisch bleibt und ohne Druck stattfindet, ist ein früher Start sinnvoll.",
+    "fr": "Si les cours restent ludiques et sans pression, un départ précoce est judicieux."
+   }
+  },
+  {
+   "id": "D12",
+   "title_de": "Sollte man Filme in der Originalsprache anschauen?",
+   "title_fr": "Faut-il regarder les films en version originale ?",
+   "opinion": {
+    "de": "Ich bin der Meinung, dass man Filme in der Originalsprache schauen sollte.",
+    "fr": "Je pense qu'on devrait regarder les films en version originale."
+   },
+   "for": [
+    {
+     "de": "So verbessert man das Hörverstehen und lernt natürliche Ausdrücke. Zum Beispiel lernt man bei einem englischen Film täglich neue Wörter.",
+     "fr": "Ainsi on améliore la compréhension orale et on apprend des expressions naturelles. Par exemple, avec un film anglais on apprend chaque jour de nouveaux mots."
+    },
+    {
+     "de": "Außerdem gehen bei der Synchronisation Emotionen und Humor teilweise verloren. Zum Beispiel sind Witze in der Übersetzung oft nicht mehr lustig.",
+     "fr": "De plus, lors du doublage, émotions et humour se perdent en partie. Par exemple, les blagues traduites ne sont souvent plus drôles."
+    }
+   ],
+   "against": [
+    {
+     "de": "Es ist anstrengend, wenn man die Sprache nicht gut versteht. Zum Beispiel verpasst man wichtige Szenen beim Lesen der Untertitel.",
+     "fr": "C'est fatigant quand on ne comprend pas bien la langue. Par exemple, on rate des scènes importantes en lisant les sous-titres."
+    },
+    {
+     "de": "Außerdem möchten viele nach der Arbeit einfach entspannen. Zum Beispiel schaut man abends lieber in der eigenen Sprache.",
+     "fr": "De plus, beaucoup veulent simplement se détendre après le travail. Par exemple, on préfère regarder le soir dans sa propre langue."
+    }
+   ],
+   "conclusion": {
+    "de": "Für Lernende ist die Originalsprache ideal, mit Untertiteln ist der Einstieg leichter.",
+    "fr": "Pour les apprenants, la version originale est idéale, et avec sous-titres le début est plus facile."
+   }
+  },
+  {
+   "id": "D13",
+   "title_de": "Online kaufen: ja oder nein?",
+   "title_fr": "Acheter en ligne : oui ou non ?",
+   "opinion": {
+    "de": "Ich finde Online-Shopping praktisch, wenn man sich gut informiert.",
+    "fr": "Je trouve les achats en ligne pratiques si on s'informe bien."
+   },
+   "for": [
+    {
+     "de": "Man kann Preise leicht vergleichen und spart oft Geld. Zum Beispiel zeigen Vergleichsseiten sofort das günstigste Angebot.",
+     "fr": "On peut facilement comparer les prix et économiser. Par exemple, les sites de comparaison montrent aussitôt l'offre la moins chère."
+    },
+    {
+     "de": "Außerdem ist es bequem, weil man jederzeit bestellen kann. Zum Beispiel liegt das Buch am nächsten Tag im Briefkasten.",
+     "fr": "De plus, c'est pratique, car on peut commander à tout moment. Par exemple, le livre est dans la boîte aux lettres le lendemain."
+    }
+   ],
+   "against": [
+    {
+     "de": "Man kann die Ware nicht anfassen oder anprobieren. Zum Beispiel passt ein Kleidungsstück oft nicht und muss zurückgeschickt werden.",
+     "fr": "On ne peut pas toucher ou essayer l'article. Par exemple, un vêtement ne va souvent pas et doit être renvoyé."
+    },
+    {
+     "de": "Außerdem schadet es lokalen Geschäften und der Umwelt. Zum Beispiel schließen kleine Läden, und es entsteht viel Verpackungsmüll.",
+     "fr": "De plus, cela nuit aux commerces locaux et à l'environnement. Par exemple, de petits magasins ferment et il y a beaucoup de déchets d'emballage."
+    }
+   ],
+   "conclusion": {
+    "de": "Online kaufen ist praktisch, aber man sollte nur bei seriösen Shops bestellen und nicht zu viel kaufen.",
+    "fr": "Acheter en ligne est pratique, mais il faut commander sur des sites sérieux et ne pas trop acheter."
+   }
+  },
+  {
+   "id": "D14",
+   "title_de": "Sollen Kunden bargeldlos bezahlen?",
+   "title_fr": "Les clients devraient-ils payer sans espèces ?",
+   "opinion": {
+    "de": "Ich denke, dass bargeldloses Bezahlen praktisch ist, aber Bargeld bleiben sollte.",
+    "fr": "Je pense que le paiement sans espèces est pratique, mais que l'argent liquide devrait rester."
+   },
+   "for": [
+    {
+     "de": "Bargeldlos zu bezahlen ist schnell und bequem. Zum Beispiel zahlt man im Supermarkt mit Karte oder Handy in Sekunden.",
+     "fr": "Payer sans espèces est rapide et pratique. Par exemple, au supermarché on paie par carte ou téléphone en quelques secondes."
+    },
+    {
+     "de": "Außerdem ist es hygienischer und sicherer. Zum Beispiel kann man eine gestohlene Karte sofort sperren lassen.",
+     "fr": "De plus, c'est plus hygiénique et plus sûr. Par exemple, on peut faire bloquer immédiatement une carte volée."
+    }
+   ],
+   "against": [
+    {
+     "de": "Nicht alle haben eine Karte oder ein Smartphone. Zum Beispiel können ältere Menschen damit oft nicht umgehen.",
+     "fr": "Tout le monde n'a pas de carte ou de smartphone. Par exemple, les personnes âgées ne savent souvent pas s'en servir."
+    },
+    {
+     "de": "Außerdem verliert man bei Karten schneller den Überblick über seine Ausgaben. Zum Beispiel gibt man mehr aus als geplant.",
+     "fr": "De plus, avec les cartes on perd plus vite le contrôle de ses dépenses. Par exemple, on dépense plus que prévu."
+    }
+   ],
+   "conclusion": {
+    "de": "Am besten bietet man beides an, damit jeder frei entscheiden kann.",
+    "fr": "Le mieux est de proposer les deux pour que chacun puisse choisir librement."
+   }
+  },
+  {
+   "id": "D15",
+   "title_de": "Ist Markenkleidung sehr wichtig?",
+   "title_fr": "Les vêtements de marque sont-ils très importants ?",
+   "opinion": {
+    "de": "Ich finde, dass Markenkleidung nicht sehr wichtig ist.",
+    "fr": "Je trouve que les vêtements de marque ne sont pas très importants."
+   },
+   "for": [
+    {
+     "de": "Markenkleidung ist teuer, aber die Qualität ist nicht immer besser. Zum Beispiel hält ein Markenpullover nicht länger als ein günstiger.",
+     "fr": "Les vêtements de marque sont chers, mais la qualité n'est pas toujours meilleure. Par exemple, un pull de marque ne dure pas plus longtemps qu'un pull bon marché."
+    },
+    {
+     "de": "Außerdem sollte man Menschen nach ihrem Charakter beurteilen. Zum Beispiel entsteht Druck in der Schule, wenn Jugendliche ausgelacht werden.",
+     "fr": "De plus, on devrait juger les gens sur leur caractère. Par exemple, une pression naît à l'école quand des jeunes sont moqués."
+    }
+   ],
+   "against": [
+    {
+     "de": "Markenkleidung hat oft eine gute Qualität und ein schönes Design. Zum Beispiel sind manche Sportschuhe sehr bequem und langlebig.",
+     "fr": "Les vêtements de marque ont souvent une bonne qualité et un beau design. Par exemple, certaines chaussures de sport sont très confortables et durables."
+    },
+    {
+     "de": "Außerdem gibt Kleidung im Beruf einen ersten Eindruck. Zum Beispiel wirkt ein Anzug bei einem Bewerbungsgespräch seriös.",
+     "fr": "De plus, les vêtements donnent une première impression au travail. Par exemple, un costume paraît sérieux lors d'un entretien d'embauche."
+    }
+   ],
+   "conclusion": {
+    "de": "Gepflegte, passende Kleidung ist wichtig, aber sie muss nicht von einer teuren Marke sein.",
+    "fr": "Des vêtements soignés et adaptés sont importants, mais ils n'ont pas besoin d'être d'une marque chère."
+   }
+  },
+  {
+   "id": "D16",
+   "title_de": "Sollten Nachrichten im Internet kostenpflichtig sein?",
+   "title_fr": "Les actualités sur Internet devraient-elles être payantes ?",
+   "opinion": {
+    "de": "Meiner Meinung nach sollten gute Nachrichten etwas kosten dürfen.",
+    "fr": "À mon avis, de bonnes actualités peuvent avoir un prix."
+   },
+   "for": [
+    {
+     "de": "Qualitätsjournalismus braucht Geld für Recherche. Zum Beispiel arbeiten Reporter in Kriegsgebieten unter großem Risiko.",
+     "fr": "Un journalisme de qualité a besoin d'argent pour les recherches. Par exemple, des reporters travaillent dans des zones de guerre avec de grands risques."
+    },
+    {
+     "de": "Außerdem bekommt man als Zahlender weniger Werbung. Zum Beispiel sind Zeitungs-Abos meist ohne Werbebanner.",
+     "fr": "De plus, en payant, on a moins de publicité. Par exemple, les abonnements de journaux sont généralement sans bannières."
+    }
+   ],
+   "against": [
+    {
+     "de": "Informationen sollten für alle frei zugänglich sein. Zum Beispiel können sich Menschen mit wenig Geld kein Abo leisten.",
+     "fr": "L'information devrait être accessible à tous. Par exemple, les personnes à faible revenu ne peuvent pas se payer un abonnement."
+    },
+    {
+     "de": "Außerdem gibt es viele kostenlose Quellen. Zum Beispiel bieten öffentliche Sender ihre Nachrichten gratis an.",
+     "fr": "De plus, il existe beaucoup de sources gratuites. Par exemple, les chaînes publiques offrent leurs actualités gratuitement."
+    }
+   ],
+   "conclusion": {
+    "de": "Ein guter Kompromiss: Grundnachrichten bleiben kostenlos, und für ausführliche Artikel zahlt man.",
+    "fr": "Un bon compromis : les informations de base restent gratuites et on paie pour les articles détaillés."
+   }
+  },
+  {
+   "id": "D17",
+   "title_de": "Elektronische Bücher (E-Books)",
+   "title_fr": "Les livres électroniques (e-books)",
+   "opinion": {
+    "de": "Meiner Meinung nach sind E-Books eine gute Ergänzung zu gedruckten Büchern.",
+    "fr": "À mon avis, les e-books sont un bon complément aux livres imprimés."
+   },
+   "for": [
+    {
+     "de": "Ein E-Reader hat Platz für Tausende Bücher. Zum Beispiel nimmt man im Urlaub eine ganze Bibliothek mit.",
+     "fr": "Une liseuse peut contenir des milliers de livres. Par exemple, en vacances on emporte toute une bibliothèque."
+    },
+    {
+     "de": "Außerdem sind E-Books oft günstiger und sofort verfügbar. Zum Beispiel lädt man ein Lehrbuch in Sekunden herunter.",
+     "fr": "De plus, les e-books sont souvent moins chers et disponibles immédiatement. Par exemple, on télécharge un manuel en quelques secondes."
+    }
+   ],
+   "against": [
+    {
+     "de": "Viele Menschen mögen das Gefühl von Papier. Zum Beispiel macht man gern Notizen in ein echtes Buch.",
+     "fr": "Beaucoup de gens aiment la sensation du papier. Par exemple, on aime prendre des notes dans un vrai livre."
+    },
+    {
+     "de": "Außerdem ermüden die Augen am Bildschirm schneller. Zum Beispiel hat man nach zwei Stunden Kopfschmerzen.",
+     "fr": "De plus, les yeux se fatiguent plus vite sur écran. Par exemple, on a mal à la tête après deux heures."
+    }
+   ],
+   "conclusion": {
+    "de": "E-Books sind praktisch für unterwegs, gedruckte Bücher bleiben für viele aber unersetzlich.",
+    "fr": "Les e-books sont pratiques en déplacement, mais les livres imprimés restent irremplaçables pour beaucoup."
+   }
+  },
+  {
+   "id": "D18",
+   "title_de": "Sollte man in sozialen Medien aktiv sein?",
+   "title_fr": "Faut-il être actif sur les réseaux sociaux ?",
+   "opinion": {
+    "de": "Meiner Meinung nach ist es sinnvoll, in sozialen Medien aktiv zu sein, solange man vorsichtig bleibt.",
+    "fr": "À mon avis, il est utile d'être actif sur les réseaux sociaux tant qu'on reste prudent."
+   },
+   "for": [
+    {
+     "de": "Man bleibt leicht mit Freunden und Familie in Kontakt. Zum Beispiel telefoniert man per WhatsApp kostenlos mit Verwandten im Ausland.",
+     "fr": "On reste facilement en contact avec amis et famille. Par exemple, on téléphone gratuitement par WhatsApp avec des proches à l'étranger."
+    },
+    {
+     "de": "Außerdem findet man dort Informationen und Jobangebote. Zum Beispiel werden viele Stellen über LinkedIn vermittelt.",
+     "fr": "De plus, on y trouve des informations et des offres d'emploi. Par exemple, beaucoup de postes sont pourvus via LinkedIn."
+    }
+   ],
+   "against": [
+    {
+     "de": "Man verbringt viel Zeit damit und wird abhängig. Zum Beispiel scrollt man stundenlang, ohne es zu merken.",
+     "fr": "On y passe beaucoup de temps et on devient dépendant. Par exemple, on fait défiler pendant des heures sans s'en rendre compte."
+    },
+    {
+     "de": "Außerdem gibt es Probleme mit Datenschutz und Falschnachrichten. Zum Beispiel sieht jeder private Fotos, wenn das Profil öffentlich ist.",
+     "fr": "De plus, il y a des problèmes de protection des données et de fausses informations. Par exemple, tout le monde voit les photos privées si le profil est public."
+    }
+   ],
+   "conclusion": {
+    "de": "Man sollte soziale Medien bewusst und mit Zeitlimit nutzen, dann überwiegen die Vorteile.",
+    "fr": "Il faut utiliser les réseaux consciemment et avec une limite de temps, alors les avantages l'emportent."
+   }
+  },
+  {
+   "id": "D19",
+   "title_de": "Sollten Geschäfte jeden Tag geöffnet haben?",
+   "title_fr": "Les magasins devraient-ils être ouverts tous les jours ?",
+   "opinion": {
+    "de": "Ich finde, dass Geschäfte nicht jeden Tag geöffnet sein müssen.",
+    "fr": "Je trouve que les magasins n'ont pas besoin d'être ouverts tous les jours."
+   },
+   "for": [
+    {
+     "de": "Verkäufer brauchen einen freien Tag zur Erholung. Zum Beispiel möchte eine Verkäuferin am Sonntag mit ihren Kindern etwas unternehmen.",
+     "fr": "Les vendeurs ont besoin d'un jour libre pour se reposer. Par exemple, une vendeuse veut faire quelque chose avec ses enfants le dimanche."
+    },
+    {
+     "de": "Außerdem fördert ein gemeinsamer freier Tag die Ruhe. Zum Beispiel machen Familien in Deutschland sonntags Ausflüge.",
+     "fr": "De plus, un jour libre commun favorise le calme. Par exemple, en Allemagne les familles font des excursions le dimanche."
+    }
+   ],
+   "against": [
+    {
+     "de": "Berufstätige haben oft nur abends oder am Wochenende Zeit zum Einkaufen. Zum Beispiel ist ein geschlossener Laden am Sonntag unpraktisch.",
+     "fr": "Les actifs n'ont souvent le temps de faire les courses que le soir ou le week-end. Par exemple, un magasin fermé le dimanche est peu pratique."
+    },
+    {
+     "de": "Außerdem schaffen längere Öffnungszeiten Arbeitsplätze und Umsatz. Zum Beispiel profitieren Studenten von Nebenjobs am Sonntag.",
+     "fr": "De plus, des horaires plus longs créent des emplois et du chiffre d'affaires. Par exemple, les étudiants profitent de petits boulots le dimanche."
+    }
+   ],
+   "conclusion": {
+    "de": "Ein Kompromiss wäre, dass nur kleine Läden oder Supermärkte in Bahnhöfen am Sonntag öffnen.",
+    "fr": "Un compromis serait que seuls les petits magasins ou supermarchés de gare ouvrent le dimanche."
+   }
+  },
+  {
+   "id": "D20",
+   "title_de": "Sollte man im Ausland oder im eigenen Land Urlaub machen?",
+   "title_fr": "Faut-il passer ses vacances à l'étranger ou dans son propre pays ?",
+   "opinion": {
+    "de": "Ich bevorzuge Urlaub im Ausland, auch wenn das eigene Land schöne Ziele hat.",
+    "fr": "Je préfère les vacances à l'étranger, même si mon propre pays a de belles destinations."
+   },
+   "for": [
+    {
+     "de": "Im Ausland lernt man neue Kulturen und Sprachen kennen. Zum Beispiel probiert man in Italien die echte Pizza und spricht mit Einheimischen.",
+     "fr": "À l'étranger, on découvre de nouvelles cultures et langues. Par exemple, en Italie on goûte la vraie pizza et on parle avec des habitants."
+    },
+    {
+     "de": "Außerdem erlebt man ganz andere Landschaften und ein anderes Klima. Zum Beispiel kann man in Norwegen Fjorde sehen.",
+     "fr": "De plus, on vit des paysages et un climat tout à fait différents. Par exemple, on peut voir des fjords en Norvège."
+    }
+   ],
+   "against": [
+    {
+     "de": "Urlaub im eigenen Land ist günstiger und einfacher. Zum Beispiel braucht man kein Visum und keinen Flug.",
+     "fr": "Les vacances dans son pays sont moins chères et plus simples. Par exemple, il n'y a pas besoin de visa ni de vol."
+    },
+    {
+     "de": "Außerdem ist er umweltfreundlicher. Zum Beispiel fährt man mit dem Zug statt zu fliegen.",
+     "fr": "De plus, elles sont plus écologiques. Par exemple, on prend le train au lieu de prendre l'avion."
+    }
+   ],
+   "conclusion": {
+    "de": "Ideal ist ein Mix: ein Jahr Ausland, ein Jahr im eigenen Land, je nach Budget.",
+    "fr": "L'idéal est un mélange : une année à l'étranger, une année dans son pays, selon le budget."
+   }
+  },
+  {
+   "id": "D21",
+   "title_de": "Sollte man mit Kindern ins Ausland reisen?",
+   "title_fr": "Faut-il voyager à l'étranger avec des enfants ?",
+   "opinion": {
+    "de": "Ich finde, dass Reisen ins Ausland auch mit Kindern sehr wertvoll sind.",
+    "fr": "Je trouve que les voyages à l'étranger sont très précieux même avec des enfants."
+   },
+   "for": [
+    {
+     "de": "Kinder lernen früh andere Kulturen und Sprachen kennen. Zum Beispiel spielen sie am Strand mit Kindern aus anderen Ländern.",
+     "fr": "Les enfants découvrent tôt d'autres cultures et langues. Par exemple, ils jouent à la plage avec des enfants d'autres pays."
+    },
+    {
+     "de": "Außerdem stärkt eine gemeinsame Reise den Zusammenhalt der Familie. Zum Beispiel erinnert man sich noch Jahre später an die Abenteuer.",
+     "fr": "De plus, un voyage commun renforce la cohésion de la famille. Par exemple, on se souvient encore des années plus tard des aventures."
+    }
+   ],
+   "against": [
+    {
+     "de": "Lange Reisen sind für kleine Kinder anstrengend. Zum Beispiel werden sie im Flugzeug schnell unruhig.",
+     "fr": "Les longs voyages fatiguent les petits enfants. Par exemple, ils deviennent vite agités dans l'avion."
+    },
+    {
+     "de": "Außerdem ist es teuer und es gibt Gesundheitsrisiken. Zum Beispiel braucht man Impfungen und eine Reiseversicherung.",
+     "fr": "De plus, c'est cher et il y a des risques pour la santé. Par exemple, il faut des vaccins et une assurance voyage."
+    }
+   ],
+   "conclusion": {
+    "de": "Mit guter Planung und kurzen Strecken ist eine Auslandsreise auch mit Kindern gut machbar.",
+    "fr": "Avec une bonne planification et de courts trajets, un voyage à l'étranger est tout à fait faisable avec des enfants."
+   }
+  },
+  {
+   "id": "D22",
+   "title_de": "Sollten Kinder ein Haustier haben?",
+   "title_fr": "Les enfants devraient-ils avoir un animal domestique ?",
+   "opinion": {
+    "de": "Ich bin dafür, dass Kinder ein Haustier haben dürfen, wenn die Familie es gut versorgen kann.",
+    "fr": "Je suis pour que les enfants puissent avoir un animal si la famille peut bien s'en occuper."
+   },
+   "for": [
+    {
+     "de": "Kinder lernen durch ein Haustier Verantwortung und Rücksicht. Zum Beispiel muss ein Kind den Hund füttern und mit ihm spazieren gehen.",
+     "fr": "Les enfants apprennent la responsabilité et le respect grâce à un animal. Par exemple, un enfant doit nourrir le chien et le promener."
+    },
+    {
+     "de": "Außerdem wirken Tiere beruhigend und helfen gegen Einsamkeit. Zum Beispiel streicheln viele Kinder ihre Katze, wenn sie traurig sind.",
+     "fr": "De plus, les animaux apaisent et aident contre la solitude. Par exemple, beaucoup d'enfants caressent leur chat quand ils sont tristes."
+    }
+   ],
+   "against": [
+    {
+     "de": "Ein Haustier kostet Geld und Zeit. Zum Beispiel sind Tierarzt und Futter teuer.",
+     "fr": "Un animal coûte de l'argent et du temps. Par exemple, le vétérinaire et la nourriture sont chers."
+    },
+    {
+     "de": "Außerdem verlieren Kinder oft schnell das Interesse. Zum Beispiel müssen am Ende die Eltern das Tier versorgen.",
+     "fr": "De plus, les enfants perdent souvent vite l'intérêt. Par exemple, ce sont finalement les parents qui s'occupent de l'animal."
+    }
+   ],
+   "conclusion": {
+    "de": "Ein Haustier ist eine schöne Erfahrung, aber die Eltern müssen bereit sein, Verantwortung zu übernehmen.",
+    "fr": "Un animal est une belle expérience, mais les parents doivent être prêts à prendre leurs responsabilités."
+   }
+  }
+ ]
+}
